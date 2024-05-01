@@ -1,0 +1,23 @@
+{
+    "files.associations": {
+        "typeindex": "c",
+        "typeinfo": "c",
+        "*.inc": "c",
+        "utilities.h": "c",
+        "staticdata.h": "c",
+        "*.ipp": "c",
+        "regex": "c",
+        "time.h": "c",
+        "bitset.h": "c",
+        "thread": "c",
+        "__locale": "c",
+        "locale": "c",
+        "functional": "c",
+        "string_view": "c",
+        "string": "c",
+        "bitset": "c",
+        "set": "c",
+        "crypto.h": "c",
+        "system_error": "c"
+    }
+}

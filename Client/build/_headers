@@ -1,0 +1,10 @@
+/rrolf-client
+Content-Type: application/javascript
+
+# specify MIME type for WebAssembly files
+/rrolf-client.wasm
+Content-Type: application/wasm
+
+# specify MIME type for HTML files
+/index.html
+Content-Type: text/html; charset=UTF-8

@@ -1,0 +1,16 @@
+Server/build/
+frontend_release_build/
+node_modules/
+.vs/
+
+database.json
+logs.txt
+
+### Rivet ###
+.rivet/
+.env
+
+
+# Added by cargo
+target/
+
